@@ -7,6 +7,9 @@
     Class handlers by Todd Motto.
     http://toddmotto.com/
 
+    Module pattern by Keith Rousseau.
+    https://twitter.com/keithtri
+
     Free to use under the MIT License.
     http://gomakethings.com/mit/
     

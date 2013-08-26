@@ -2,7 +2,7 @@
 A simple micro-library that makes working with vanilla JS just a little bit easier.
 
 ## How It Works
-Getting started with Buoy is really easy. [View the online tutorial (coming soon).](#)
+Getting started with Buoy is really easy. [View the online tutorial.](http://cferdinandi.github.io/buoy/)
 
 ## Changelog
 * v1.0 (August 26, 2013)
