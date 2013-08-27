@@ -7,6 +7,7 @@ Getting started with Buoy is really easy. [View the online tutorial.](http://cfe
 ## Changelog
 * v1.1 (August 27, 2013)
   * Added missing semicolons.
+  * Activated strict mode.
 * v1.0 (August 26, 2013)
   * Initial release.
 
