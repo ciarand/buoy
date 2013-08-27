@@ -5,6 +5,8 @@ A simple micro-library that makes working with vanilla JS just a little bit easi
 Getting started with Buoy is really easy. [View the online tutorial.](http://cferdinandi.github.io/buoy/)
 
 ## Changelog
+* v1.1 (August 27, 2013)
+  * Added missing semicolons.
 * v1.0 (August 26, 2013)
   * Initial release.
 
